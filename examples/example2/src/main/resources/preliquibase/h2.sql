@@ -1,0 +1,2 @@
+-- PreLiquibase
+CREATE SCHEMA IF NOT EXISTS PUBLIC;

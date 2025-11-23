@@ -15,7 +15,7 @@
  */
 package net.lbruun.springboot.preliquibase.example.jpa;
 
-import org.springframework.boot.autoconfigure.orm.jpa.JpaProperties;
+import org.springframework.boot.jpa.autoconfigure.JpaProperties;
 
 /**
  * Enhanced version of {@link JpaProperties} which also allows to define <i>Persistence Unit

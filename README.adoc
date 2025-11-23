@@ -434,6 +434,12 @@ easily adapt to a single datasource use-case.
 |Git branch name
 |Description
 
+|2.0.x
+|Spring Boot 4.0+
+|JDK 25
+|`main`
+|Use this unless you absolutely *must* use an older version of Spring Boot.
+
 |1.6.x
 |Spring Boot 3.4 + 3.5
 |JDK 17
